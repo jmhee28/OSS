@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 5git0px;
+}
+td{
+  width:250px;
+}
+table{
+    display: flex;
+    margin-left: 50px; 
+}
